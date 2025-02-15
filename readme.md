@@ -1,5 +1,7 @@
 # Gridy Shader Effect
 
+View ( <a target='_blank' href='https://text-grid-shader.onrender.com/' >Live</a> )
+
 A captivating Grid Shader Effect that delivers an immersive and interactive experience with fluid animations and dynamic visuals.
 
 Initially, I discovered this captivating grid shader effect online and took on the challenge to learn how to create it. With the help of ChatGPT and my self-learning capabilities, I successfully nailed it! It took me 3 days, dedicating about 2 hours each day to master the effect.
